@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/identity16/neis-meal/issues"
   },
-  "homepage": "https://github.com/identity16/neis-meal#readme"
+  "homepage": "https://github.com/identity16/neis-meal#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
 }
