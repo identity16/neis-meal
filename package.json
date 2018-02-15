@@ -1,6 +1,6 @@
 {
   "name": "neis-meal",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Neis 급식 파싱 모듈",
   "main": "index.js",
   "scripts": {
