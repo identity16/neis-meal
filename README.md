@@ -1,5 +1,9 @@
 # Neis-Meal
-  Neis 급식 파싱 모듈
+![](https://img.shields.io/npm/v/neis-meal.svg) ![](https://img.shields.io/npm/dm/neis-meal.svg)
+  
+Neis 급식 파싱 모듈
+  
+
 
 ## Examples
 ```js
